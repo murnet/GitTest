@@ -1,8 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-modules.xml
-misc.xml
-vcs.xml
+/modules.xml
+/misc.xml
+/vcs.xml
 GitTest.iml
 
